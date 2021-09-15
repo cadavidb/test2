@@ -1,0 +1,76 @@
+
+
+
+h1.title{
+    padding-left: 1%;
+    color: rgb(171, 216, 193);
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    text-shadow: 15px 15px 35px rgb(107, 127, 117);
+    position: relative;
+    left: 1%;
+    margin-top: 2%;
+    font-family: 'Anton', serif;
+    
+    font-size: 300%;
+    
+}
+mark{
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}
+h3.subtitle{
+    color: aliceblue;
+    text-align: center;
+    font-size: 195%;
+}
+
+div img{
+    border-radius: 10px;
+    width: 50%;
+    height: 50%;
+    
+    
+}
+#logo{
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    left: 80%;
+    top: 20px;
+    border-radius: 20px;
+}
+ 
+.carrusel{
+    width: 80%;
+    height: 70%;
+    left: 10%;
+   
+}
+
+body,html{
+    height: 100%;
+    background-repeat: no-repeat;
+    background: url('./images/wall.jpg'),no-repeat center center fixed;
+    background-size: 100% 100%;
+   
+   
+}
+
+article p{
+    border-radius: 5px;
+backdrop-filter: blur(35px);
+color: white;
+padding: 3%;
+font-size: 140%;
+font-family: 'Roboto',sans-serif;
+padding: 5%;
+}
+
+
+
+
+
+
+
